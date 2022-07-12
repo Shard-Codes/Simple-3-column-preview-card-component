@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend mentor solution link](https://your-solution-url.com)
-- Live Site URL: [Deployed project link](https://your-live-site-url.com)
+- Solution URL: [Frontend mentor solution link](https://www.frontendmentor.io/solutions/simple-3column-preview-card-component-RtvEAaNjrh)
+- Live Site URL: [Deployed project link](https://3-column-preview-new.netlify.app/)
 
 ### Built with
 
